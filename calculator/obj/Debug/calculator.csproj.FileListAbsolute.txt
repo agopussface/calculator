@@ -1,0 +1,8 @@
+E:\DEV\DESK\drill c#\calculator\calculator\bin\Debug\calculator.exe.config
+E:\DEV\DESK\drill c#\calculator\calculator\bin\Debug\calculator.exe
+E:\DEV\DESK\drill c#\calculator\calculator\bin\Debug\calculator.pdb
+E:\DEV\DESK\drill c#\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+E:\DEV\DESK\drill c#\calculator\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+E:\DEV\DESK\drill c#\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+E:\DEV\DESK\drill c#\calculator\calculator\obj\Debug\calculator.exe
+E:\DEV\DESK\drill c#\calculator\calculator\obj\Debug\calculator.pdb
